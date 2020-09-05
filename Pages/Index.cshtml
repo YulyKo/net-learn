@@ -2,9 +2,22 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+    int task1Sum = 2+4;
+    int task1Difference = 2-4;
+    double task1Pow = Math.Pow(2, 4);
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h3>for start project : dotnet watch run</h3>
+    <h1 class="display-4">ОСНОВНЫЕ ПРИЕМЫ ПРОГРАММИРОВАНИЯ</h1>
+    <section>
+        <h2>Арифметика действительных чисел. Вычисления по формулам</h2>
+        <article>
+            <p>Task1</p>
+            <p>Даны два действительных числа а и Ь. Получить их сумму, разность и произведение.</p>
+            <p>Вхідні дані: a = 2; b = 4;</p>
+            <p>Результати відповідно: @task1Sum | @task1Difference | @task1Pow</p>
+        </article>
+    </section>
 </div>

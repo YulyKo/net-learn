@@ -21,5 +21,8 @@ namespace net_learn.Pages
         {
 
         }
+
+        
+        public int firstNum { get; set; }
     }
 }
