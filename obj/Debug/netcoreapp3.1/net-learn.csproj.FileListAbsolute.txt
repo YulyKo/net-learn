@@ -1,0 +1,13 @@
+D:\net-learn\bin\Debug\netcoreapp3.1\net-learn.exe
+D:\net-learn\bin\Debug\netcoreapp3.1\net-learn.deps.json
+D:\net-learn\bin\Debug\netcoreapp3.1\net-learn.runtimeconfig.json
+D:\net-learn\bin\Debug\netcoreapp3.1\net-learn.runtimeconfig.dev.json
+D:\net-learn\bin\Debug\netcoreapp3.1\net-learn.dll
+D:\net-learn\bin\Debug\netcoreapp3.1\net-learn.pdb
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.csprojAssemblyReference.cache
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.AssemblyInfoInputs.cache
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.AssemblyInfo.cs
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.csproj.CoreCompileInputs.cache
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.dll
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.pdb
+D:\net-learn\obj\Debug\netcoreapp3.1\net-learn.genruntimeconfig.cache
